@@ -1,6 +1,6 @@
 # 👋 Hi there,
 
-my name is <strong>Tobias Deekens</strong>. I like to design and **build software for the web**. I currently work at commercetools as a **Tech Lead on the Platform Team**.
+my name is **Tobias Deekens**. I like to design and **build software for the web**. I currently work at **commercetools as a Principal Engineer** on the Composable Commerce Team focussing on Frontend Architecture.
 
 You can also find me on:
 
